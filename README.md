@@ -1,2 +1,8 @@
-# 48h-landing-demo
-Demo sample landing page for Peter Neal Lowell $50/48h micro-business (fictional Mill City Fade Co.)
+# 48h landing demo (Peter Neal)
+
+Fictional Lowell barbershop sample + $50 offer page.
+
+- Sample: https://roguenealer.github.io/48h-landing-demo/
+- Offer: https://roguenealer.github.io/48h-landing-demo/offer.html
+
+Pay: Venmo @Peter-Neal-21
